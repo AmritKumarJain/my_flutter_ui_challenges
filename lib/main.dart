@@ -36,7 +36,9 @@ class MyHomePageState extends State<MyHomePage> {
     "Banking App Home Screen",
     "Interior Decoration Screens",
     "Login Signup Screens",
-    "Music Player Screens"
+    "Music Player Screens",
+    "Video Player App",
+    "Tic Tac Toe" //Added New Challenges
   ];
 
   @override
